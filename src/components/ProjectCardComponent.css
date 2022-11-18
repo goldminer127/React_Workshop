@@ -1,0 +1,43 @@
+.project-card-body
+{
+    width: 20rem;
+    height: 20rem;
+    border: 5px solid gray;
+    background-image: url(../../public/assets/backgrounds/project_card_background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.project-title
+{
+    text-align: center;
+}
+
+.project-description
+{
+    margin-left: 1rem;
+}
+
+.projet-image
+{
+    width: 13rem;
+    height: 13rem;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.project-link
+{
+    width: 8rem;
+    height: 3rem;
+    color: white;
+    font-size: large;
+    background-color: black;
+    border: 2px solid white;
+    position: relative;
+    margin-top: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}

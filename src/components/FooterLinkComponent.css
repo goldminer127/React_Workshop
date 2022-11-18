@@ -1,0 +1,15 @@
+.footer-button
+{
+    width: 5rem;
+    height: 5rem;
+    cursor: pointer;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    text-align: center;
+    color: white;
+}
+
+.footer-image
+{
+    width: 5rem;
+}
