@@ -6,4 +6,5 @@ To compile these files follow the below instructions.
 ### Steps
 1: Open a terminal, I used Git in this workshop\
 2: cd into the folder that contains the public and src folders\
-3: run the command: npm start
+3: run "npm install react-scripts --save"\
+4: run the command: npm start
